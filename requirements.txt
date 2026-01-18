@@ -1,0 +1,18 @@
+# Python version
+python>=3.9
+
+# Core numerical & vision libraries
+numpy
+opencv-python
+mediapipe
+
+# OpenGL for 3D Viewer
+PyOpenGL
+PyOpenGL_accelerate
+freeglut
+
+# UI
+customtkinter
+
+# Utilities
+jsonschema
